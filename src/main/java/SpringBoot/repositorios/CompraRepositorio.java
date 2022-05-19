@@ -1,4 +1,7 @@
 package SpringBoot.repositorios;
 
-public interface CompraRepositorio {
+import SpringBoot.entidades.Compra;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface CompraRepositorio extends JpaRepository<Compra, Integer> {
 }

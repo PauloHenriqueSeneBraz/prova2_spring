@@ -1,4 +1,7 @@
 package SpringBoot.repositorios;
 
-public interface JogoRepositorio {
+import SpringBoot.entidades.Jogo;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface JogoRepositorio extends JpaRepository<Jogo, Integer> {
 }
