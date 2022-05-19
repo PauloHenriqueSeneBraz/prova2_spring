@@ -1,4 +1,4 @@
-package recursos;
+package SpringBoot.recursos;
 
 public class CompraRecurso {
 }

@@ -1,4 +1,4 @@
-package entidades;
+package SpringBoot.entidades;
 
 import lombok.Data;
 
