@@ -10,7 +10,7 @@
     </parent>
     <groupId>br.edu.unifio</groupId>
     <artifactId>Spring-Boot</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>2022.05.19</version>
     <name>Spring-Boot</name>
     <description>Prova 2 Delfino</description>
     <properties>
