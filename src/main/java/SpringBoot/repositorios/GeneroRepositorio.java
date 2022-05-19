@@ -1,4 +1,4 @@
-package repositorios;
+package SpringBoot.repositorios;
 
 public interface GeneroRepositorio {
 }
